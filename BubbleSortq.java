@@ -38,9 +38,7 @@ public class BubbleSortq {
 		Method2(array);
 		Method1(array);
 
-		Method2(array);
-		Method2(array);
-		
+	
 		
 		
 		
