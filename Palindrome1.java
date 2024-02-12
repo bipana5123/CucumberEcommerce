@@ -29,6 +29,7 @@ public class Palindrome1 {
 		int array1[]= {4,3,2,3,4};
 		boolean a = Method1(array1);
 		System.out.println(a);
+		System.out.println(a);
 	}
 
 }
